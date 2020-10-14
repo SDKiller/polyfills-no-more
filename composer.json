@@ -1,5 +1,5 @@
 {
-	"name": "SDKiller/polyfills-no-more",
+	"name": "zyx/polyfills-no-more",
 	"description": "Attempt to get rid of unnesessary polyfills",
 	"type": "library",
 	"replace": {
