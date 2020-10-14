@@ -1,0 +1,13 @@
+{
+	"name": "SDKiller/polyfills-no-more",
+	"description": "Attempt to get rid of unnesessary polyfills",
+	"type": "library",
+	"replace": {
+		"symfony/polyfill-mbstring": "*",
+		"symfony/polyfill-ctype": "*"
+	},
+	"conflict": {
+		"symfony/polyfill-mbstring": "*",
+		"symfony/polyfill-ctype": "*"
+	}
+}
