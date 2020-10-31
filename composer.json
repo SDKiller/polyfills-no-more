@@ -3,10 +3,12 @@
 	"description": "Attempt to get rid of unnesessary polyfills",
 	"type": "library",
 	"replace": {
+		"paragonie/random_compat": "*",
 		"symfony/polyfill-mbstring": "*",
 		"symfony/polyfill-ctype": "*"
 	},
 	"conflict": {
+		"paragonie/random_compat": "*",
 		"symfony/polyfill-mbstring": "*",
 		"symfony/polyfill-ctype": "*"
 	}
