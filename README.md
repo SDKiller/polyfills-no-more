@@ -5,7 +5,7 @@ Along of wasting extra disk space, your also have to deal with warnings like "Du
 in your IDE and broken autocompletion.
 
 This is mostly common case with Symfony components (or packages, using Symfony components), but not only.
-While the authors of such packages find "good enough" atguments to explain their approach, IMHO, it is doubtful
+While the authors of such packages find "good enough" arguments to explain their approach, IMHO, it is doubtful
 and outdated.
 Today it is a very rare case, that your provider does not allow you to install mbstring or iconv extension, etc.
 With modern containerization techniques you can create any environment nesessary for you project.
