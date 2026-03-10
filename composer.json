@@ -2,7 +2,7 @@
 	"name": "sdkiller/polyfills-no-more",
 	"description": "Get rid of unnesessary polyfills",
 	"type": "library",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"license": "BSD-3-Clause",
 	"authors": [
 		{
@@ -14,7 +14,7 @@
 		"php": ">=8.5"
 	},
 	"replace": {
-		"ircmaxell/password_compat": "*",
+		"ircmaxell/password-compat": "*",
 		"paragonie/random_compat": "*",
 		"paragonie/sodium_compat": "*",
 		"ralouphie/getallheaders": "*",
